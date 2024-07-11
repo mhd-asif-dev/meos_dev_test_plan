@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.6.4)  10 JUL 2024 17:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.7.5)  11 JUL 2024 14:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -386,7 +386,7 @@ LaTeX Info: Redefining \nameref on input line 32.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-<dct-logo.png, id=92, 570.6921pt x 136.1085pt>
+<dct-logo.png, id=100, 570.6921pt x 136.1085pt>
 File: dct-logo.png Graphic file (type png)
 <use dct-logo.png>
 Package pdftex.def Info: dct-logo.png  used on input line 37.
@@ -425,20 +425,8 @@ l.79 	\newpage
 \tf@toc=\write4
 \openout4 = `development_and_test_plan.toc'.
 
-File: dct-logo.png Graphic file (type png)
-<use dct-logo.png>
-Package pdftex.def Info: dct-logo.png  used on input line 81.
-(pdftex.def)             Requested size: 50.59209pt x 39.95227pt.
 
-
-Package fancyhdr Warning: \headheight is too small (28.45274pt): 
-(fancyhdr)                Make it at least 44.3023pt, for example:
-(fancyhdr)                \setlength{\headheight}{44.3023pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-15.84956pt}.
-
-[2] (./development_and_test_plan.lof)
+(./development_and_test_plan.lof)
 \tf@lof=\write5
 \openout5 = `development_and_test_plan.lof'.
 
@@ -455,11 +443,11 @@ Package fancyhdr Warning: \headheight is too small (28.45274pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-15.84956pt}.
 
-[3]
+[2]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./d-t.pdf): PDF inclusion: found PDF ve
 rsion <1.7>, but at most version <1.5> allowed
-<d-t.pdf, id=148, 183.8067pt x 295.1025pt>
+<d-t.pdf, id=152, 183.8067pt x 295.1025pt>
 File: d-t.pdf Graphic file (type pdf)
 <use d-t.pdf>
 Package pdftex.def Info: d-t.pdf  used on input line 95.
@@ -545,7 +533,7 @@ Package fancyhdr Warning: \headheight is too small (28.45274pt):
 [3]
 File: dct-logo.png Graphic file (type png)
 <use dct-logo.png>
-Package pdftex.def Info: dct-logo.png  used on input line 268.
+Package pdftex.def Info: dct-logo.png  used on input line 277.
 (pdftex.def)             Requested size: 50.59209pt x 39.95227pt.
 
 
@@ -559,7 +547,7 @@ Package fancyhdr Warning: \headheight is too small (28.45274pt):
 [4]
 File: dct-logo.png Graphic file (type png)
 <use dct-logo.png>
-Package pdftex.def Info: dct-logo.png  used on input line 319.
+Package pdftex.def Info: dct-logo.png  used on input line 322.
 (pdftex.def)             Requested size: 50.59209pt x 39.95227pt.
 
 
@@ -571,13 +559,13 @@ Package fancyhdr Warning: \headheight is too small (28.45274pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.84956pt}.
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 328--333
+Underfull \hbox (badness 10000) in paragraph at lines 336--341
 
  []
 
 File: dct-logo.png Graphic file (type png)
 <use dct-logo.png>
-Package pdftex.def Info: dct-logo.png  used on input line 351.
+Package pdftex.def Info: dct-logo.png  used on input line 359.
 (pdftex.def)             Requested size: 50.59209pt x 39.95227pt.
 
 Package fancyhdr Warning: \headheight is too small (28.45274pt): 
@@ -588,18 +576,18 @@ Package fancyhdr Warning: \headheight is too small (28.45274pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.84956pt}.
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 391--402
+Underfull \hbox (badness 10000) in paragraph at lines 399--410
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 391--402
+Underfull \hbox (badness 10000) in paragraph at lines 399--410
 
  []
 
 File: dct-logo.png Graphic file (type png)
 <use dct-logo.png>
-Package pdftex.def Info: dct-logo.png  used on input line 402.
+Package pdftex.def Info: dct-logo.png  used on input line 410.
 (pdftex.def)             Requested size: 50.59209pt x 39.95227pt.
 
 Package fancyhdr Warning: \headheight is too small (28.45274pt): 
@@ -612,7 +600,7 @@ Package fancyhdr Warning: \headheight is too small (28.45274pt):
 [7]
 File: dct-logo.png Graphic file (type png)
 <use dct-logo.png>
-Package pdftex.def Info: dct-logo.png  used on input line 410.
+Package pdftex.def Info: dct-logo.png  used on input line 418.
 (pdftex.def)             Requested size: 50.59209pt x 39.95227pt.
 
 
@@ -626,26 +614,26 @@ Package fancyhdr Warning: \headheight is too small (28.45274pt):
 [8] (./development_and_test_plan.aux)
 Package rerunfilecheck Info: File `development_and_test_plan.out' has not chang
 ed.
-(rerunfilecheck)             Checksum: 3343A600569FF057F3EAE20C080071AF;3501.
+(rerunfilecheck)             Checksum: DA3488219951F2F2F9C38DD0A25AB2BE;3871.
  ) 
 Here is how much of TeX's memory you used:
- 10850 strings out of 480247
- 174427 string characters out of 5896152
+ 10853 strings out of 480247
+ 174499 string characters out of 5896152
  475719 words of memory out of 5000000
- 28614 multiletter control sequences out of 15000+600000
+ 28616 multiletter control sequences out of 15000+600000
  476165 words of font info for 50 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  60i,15n,63p,861b,500s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/asif22/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.60
-0pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on development_and_test_plan.pdf (12 pages, 171902 bytes).
+ </home/richu/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600
+pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on development_and_test_plan.pdf (11 pages, 171393 bytes).
 PDF statistics:
- 270 PDF objects out of 1000 (max. 8388607)
- 225 compressed objects within 3 object streams
- 54 named destinations out of 1000 (max. 500000)
- 259 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 275 PDF objects out of 1000 (max. 8388607)
+ 232 compressed objects within 3 object streams
+ 55 named destinations out of 1000 (max. 500000)
+ 269 words of extra memory for PDF output out of 10000 (max. 10000000)
 
